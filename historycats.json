@@ -2,16 +2,16 @@
     {
         "name": "Catesar",
         "description": "Great dictator of whole Kitchen Empire. Poet, philosopher, author of night sonnets \"Meow Meow\" and \"Mur Mur Mur\". Favorite food: olives and sardines.",
-        "img": "https://github.com/RobocodeSchool/web/assets/roman.jpg"
+        "img": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/roman.jpg"
     },
     {
         "name": "Catpoleon",
         "description": "Conquered all the cakes in the world. Created a cheese army. He made all the mice obey him and fear his name.",
-        "img": "https://github.com/RobocodeSchool/web/assets/napoleon.jpg"
+        "img": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/napoleon.jpg"
     },
     {
         "name": "Neferkitty",
         "description": "he Empress and the wife of Pharaoh's cat. Neferkitty was known throughout Egypt for its beauty. Favorite toy: a plush snake.",
-        "img": "https://github.com/RobocodeSchool/web/assets/neferkitty.jpg"
+        "img": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/neferkitty.jpg"
     }
 ]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Smells Like Teen Spirit",
+        "author": "Nirvana",
+        "img": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/Smells_Like_Teen_Spirit.jpg",
+        "details": "https://raw.githubusercontent.com/RobocodeSchool/web/master/smells_like_teen_spirit.json"
+    },
+    {
+        "name": "Bohemian Rhapsody",
+        "author": "Queen",
+        "img": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/Bohemian_Rhapsody.png",
+        "details": "https://raw.githubusercontent.com/RobocodeSchool/web/master/bohemian_rhapsody.json"
+    },
+    {
+        "name": "Billie Jean",
+        "author": "Michael Jackson",
+        "img": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/Billie_Jean_US_7-inch_vinyl_Side-A.jpg",
+        "details": "https://raw.githubusercontent.com/RobocodeSchool/web/master/billie_jean.json"
+    }
+]

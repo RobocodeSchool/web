@@ -1,0 +1,20 @@
+{
+    "event": "Halloween party 2021",
+    "guests" : [
+        {
+            "name": "Vlad Dracula",
+            "age": "593",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/drakula.jpg"
+        },
+        {
+            "name": "Frankenstein Monster",
+            "age": "203",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/frankenstein.jpg"
+        },
+        {
+            "name": "Baba Yaga",
+            "age": "121",
+            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/web/master/assets/baba_yaga.jpg"
+        }
+    ]
+}
